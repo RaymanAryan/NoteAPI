@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-pydantic
-pydantic-settings
-sqlite-utils
-sqlalchemy
-alembic
-utcnow
